@@ -1,5 +1,5 @@
 body {
-    background-color: #b3a398;
+    background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
     font-family: "Roboto", sans-serif;
 }
 header {
